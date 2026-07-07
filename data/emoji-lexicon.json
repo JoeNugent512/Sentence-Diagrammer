@@ -1,0 +1,1383 @@
+{
+  "😀": {
+    "display": "😀",
+    "name": "grinning face",
+    "keywords": [
+      "happy",
+      "smile",
+      "grin",
+      "joy"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😃": {
+    "display": "😃",
+    "name": "grinning face with big eyes",
+    "keywords": [
+      "happy",
+      "smile",
+      "excited"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😄": {
+    "display": "😄",
+    "name": "grinning face with smiling eyes",
+    "keywords": [
+      "happy",
+      "laugh",
+      "smile"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😁": {
+    "display": "😁",
+    "name": "beaming face with smiling eyes",
+    "keywords": [
+      "happy",
+      "grin",
+      "smile"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😅": {
+    "display": "😅",
+    "name": "grinning face with sweat",
+    "keywords": [
+      "relief",
+      "nervous",
+      "laugh"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😂": {
+    "display": "😂",
+    "name": "face with tears of joy",
+    "keywords": [
+      "laugh",
+      "funny",
+      "hilarious",
+      "lol"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤣": {
+    "display": "🤣",
+    "name": "rolling on the floor laughing",
+    "keywords": [
+      "laugh",
+      "funny",
+      "rofl"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😊": {
+    "display": "😊",
+    "name": "smiling face with smiling eyes",
+    "keywords": [
+      "happy",
+      "warm",
+      "pleased"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😇": {
+    "display": "😇",
+    "name": "smiling face with halo",
+    "keywords": [
+      "innocent",
+      "angel",
+      "good"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🙂": {
+    "display": "🙂",
+    "name": "slightly smiling face",
+    "keywords": [
+      "smile",
+      "okay",
+      "content"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🙃": {
+    "display": "🙃",
+    "name": "upside-down face",
+    "keywords": [
+      "silly",
+      "sarcasm",
+      "ironic"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😉": {
+    "display": "😉",
+    "name": "winking face",
+    "keywords": [
+      "wink",
+      "flirt",
+      "joke"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😍": {
+    "display": "😍",
+    "name": "smiling face with heart-eyes",
+    "keywords": [
+      "love",
+      "adore",
+      "crush"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🥰": {
+    "display": "🥰",
+    "name": "smiling face with hearts",
+    "keywords": [
+      "love",
+      "affection",
+      "adore"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😘": {
+    "display": "😘",
+    "name": "face blowing a kiss",
+    "keywords": [
+      "kiss",
+      "love",
+      "affection"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😎": {
+    "display": "😎",
+    "name": "smiling face with sunglasses",
+    "keywords": [
+      "cool",
+      "confident",
+      "chill"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤔": {
+    "display": "🤔",
+    "name": "thinking face",
+    "keywords": [
+      "thinking",
+      "hmm",
+      "considering",
+      "unsure"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🙄": {
+    "display": "🙄",
+    "name": "face with rolling eyes",
+    "keywords": [
+      "eye roll",
+      "annoyed",
+      "whatever"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😬": {
+    "display": "😬",
+    "name": "grimacing face",
+    "keywords": [
+      "awkward",
+      "nervous",
+      "eek"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😳": {
+    "display": "😳",
+    "name": "flushed face",
+    "keywords": [
+      "embarrassed",
+      "surprised",
+      "blush"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🥺": {
+    "display": "🥺",
+    "name": "pleading face",
+    "keywords": [
+      "puppy eyes",
+      "begging",
+      "cute",
+      "sad"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😢": {
+    "display": "😢",
+    "name": "crying face",
+    "keywords": [
+      "sad",
+      "tear",
+      "upset"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😭": {
+    "display": "😭",
+    "name": "loudly crying face",
+    "keywords": [
+      "sad",
+      "crying",
+      "sobbing",
+      "upset"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😤": {
+    "display": "😤",
+    "name": "face with steam from nose",
+    "keywords": [
+      "frustrated",
+      "proud",
+      "huffing"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😡": {
+    "display": "😡",
+    "name": "enraged face",
+    "keywords": [
+      "angry",
+      "mad",
+      "furious"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤬": {
+    "display": "🤬",
+    "name": "face with symbols on mouth",
+    "keywords": [
+      "swearing",
+      "angry",
+      "cursing"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😱": {
+    "display": "😱",
+    "name": "face screaming in fear",
+    "keywords": [
+      "scared",
+      "shocked",
+      "scream"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😨": {
+    "display": "😨",
+    "name": "fearful face",
+    "keywords": [
+      "scared",
+      "afraid",
+      "anxious"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😴": {
+    "display": "😴",
+    "name": "sleeping face",
+    "keywords": [
+      "sleepy",
+      "tired",
+      "asleep",
+      "zzz"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🥱": {
+    "display": "🥱",
+    "name": "yawning face",
+    "keywords": [
+      "tired",
+      "bored",
+      "sleepy"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤢": {
+    "display": "🤢",
+    "name": "nauseated face",
+    "keywords": [
+      "sick",
+      "ill",
+      "nauseated",
+      "disgust"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤮": {
+    "display": "🤮",
+    "name": "face vomiting",
+    "keywords": [
+      "sick",
+      "vomit",
+      "gross",
+      "disgusted"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤒": {
+    "display": "🤒",
+    "name": "face with thermometer",
+    "keywords": [
+      "sick",
+      "ill",
+      "fever"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤯": {
+    "display": "🤯",
+    "name": "exploding head",
+    "keywords": [
+      "mind blown",
+      "shocked",
+      "amazed"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🥳": {
+    "display": "🥳",
+    "name": "partying face",
+    "keywords": [
+      "celebration",
+      "party",
+      "excited"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😐": {
+    "display": "😐",
+    "name": "neutral face",
+    "keywords": [
+      "neutral",
+      "meh",
+      "blank"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "😑": {
+    "display": "😑",
+    "name": "expressionless face",
+    "keywords": [
+      "blank",
+      "unimpressed",
+      "meh"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "💀": {
+    "display": "💀",
+    "name": "skull",
+    "keywords": [
+      "dead",
+      "dying of laughter",
+      "skeleton"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "🤡": {
+    "display": "🤡",
+    "name": "clown face",
+    "keywords": [
+      "clown",
+      "silly",
+      "foolish"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "predicate-complement",
+      "interjection",
+      "noun"
+    ]
+  },
+  "👻": {
+    "display": "👻",
+    "name": "ghost",
+    "keywords": [
+      "ghost",
+      "spooky",
+      "boo"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💩": {
+    "display": "💩",
+    "name": "pile of poo",
+    "keywords": [
+      "poop",
+      "silly",
+      "gross"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "👍": {
+    "display": "👍",
+    "name": "thumbs up",
+    "keywords": [
+      "approval",
+      "yes",
+      "good",
+      "ok"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "👎": {
+    "display": "👎",
+    "name": "thumbs down",
+    "keywords": [
+      "disapproval",
+      "no",
+      "bad"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "👏": {
+    "display": "👏",
+    "name": "clapping hands",
+    "keywords": [
+      "applause",
+      "congratulations",
+      "praise"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🙏": {
+    "display": "🙏",
+    "name": "folded hands",
+    "keywords": [
+      "please",
+      "thanks",
+      "prayer",
+      "hope"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🤝": {
+    "display": "🤝",
+    "name": "handshake",
+    "keywords": [
+      "agreement",
+      "deal",
+      "greeting"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💪": {
+    "display": "💪",
+    "name": "flexed biceps",
+    "keywords": [
+      "strong",
+      "strength",
+      "muscle"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "👀": {
+    "display": "👀",
+    "name": "eyes",
+    "keywords": [
+      "looking",
+      "watching",
+      "attention"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "✌️": {
+    "display": "✌️",
+    "name": "victory hand",
+    "keywords": [
+      "peace",
+      "victory",
+      "two"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🤞": {
+    "display": "🤞",
+    "name": "crossed fingers",
+    "keywords": [
+      "luck",
+      "hope",
+      "wish"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "👋": {
+    "display": "👋",
+    "name": "waving hand",
+    "keywords": [
+      "hello",
+      "goodbye",
+      "wave"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🫶": {
+    "display": "🫶",
+    "name": "heart hands",
+    "keywords": [
+      "love",
+      "heart",
+      "appreciation"
+    ],
+    "category": "People & Body",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "❤️": {
+    "display": "❤️",
+    "name": "red heart",
+    "keywords": [
+      "love",
+      "heart",
+      "affection"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💔": {
+    "display": "💔",
+    "name": "broken heart",
+    "keywords": [
+      "heartbreak",
+      "sad",
+      "breakup"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💕": {
+    "display": "💕",
+    "name": "two hearts",
+    "keywords": [
+      "love",
+      "affection",
+      "hearts"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💯": {
+    "display": "💯",
+    "name": "hundred points",
+    "keywords": [
+      "perfect",
+      "100",
+      "agree",
+      "keep it real"
+    ],
+    "category": "Smileys & Emotion",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🔥": {
+    "display": "🔥",
+    "name": "fire",
+    "keywords": [
+      "fire",
+      "hot",
+      "lit",
+      "excellent"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "✨": {
+    "display": "✨",
+    "name": "sparkles",
+    "keywords": [
+      "sparkle",
+      "shiny",
+      "special",
+      "magic"
+    ],
+    "category": "Activities",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🎉": {
+    "display": "🎉",
+    "name": "party popper",
+    "keywords": [
+      "celebration",
+      "party",
+      "congratulations"
+    ],
+    "category": "Activities",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🎊": {
+    "display": "🎊",
+    "name": "confetti ball",
+    "keywords": [
+      "celebration",
+      "party",
+      "confetti"
+    ],
+    "category": "Activities",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "⭐": {
+    "display": "⭐",
+    "name": "star",
+    "keywords": [
+      "star",
+      "favorite",
+      "excellent"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌟": {
+    "display": "🌟",
+    "name": "glowing star",
+    "keywords": [
+      "star",
+      "shining",
+      "outstanding"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "⚡": {
+    "display": "⚡",
+    "name": "high voltage",
+    "keywords": [
+      "lightning",
+      "fast",
+      "energy"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "☀️": {
+    "display": "☀️",
+    "name": "sun",
+    "keywords": [
+      "sun",
+      "sunny",
+      "bright",
+      "warm"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌙": {
+    "display": "🌙",
+    "name": "crescent moon",
+    "keywords": [
+      "moon",
+      "night",
+      "sleep"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌈": {
+    "display": "🌈",
+    "name": "rainbow",
+    "keywords": [
+      "rainbow",
+      "colorful",
+      "hope"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "❄️": {
+    "display": "❄️",
+    "name": "snowflake",
+    "keywords": [
+      "snow",
+      "cold",
+      "winter"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌧️": {
+    "display": "🌧️",
+    "name": "cloud with rain",
+    "keywords": [
+      "rain",
+      "weather",
+      "gloomy"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🚀": {
+    "display": "🚀",
+    "name": "rocket",
+    "keywords": [
+      "rocket",
+      "launch",
+      "fast",
+      "growth"
+    ],
+    "category": "Travel & Places",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🏆": {
+    "display": "🏆",
+    "name": "trophy",
+    "keywords": [
+      "winner",
+      "award",
+      "champion"
+    ],
+    "category": "Activities",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🎂": {
+    "display": "🎂",
+    "name": "birthday cake",
+    "keywords": [
+      "birthday",
+      "cake",
+      "celebration"
+    ],
+    "category": "Food & Drink",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🍕": {
+    "display": "🍕",
+    "name": "pizza",
+    "keywords": [
+      "pizza",
+      "food",
+      "slice"
+    ],
+    "category": "Food & Drink",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "☕": {
+    "display": "☕",
+    "name": "hot beverage",
+    "keywords": [
+      "coffee",
+      "tea",
+      "drink"
+    ],
+    "category": "Food & Drink",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🍔": {
+    "display": "🍔",
+    "name": "hamburger",
+    "keywords": [
+      "burger",
+      "food",
+      "fast food"
+    ],
+    "category": "Food & Drink",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🐶": {
+    "display": "🐶",
+    "name": "dog face",
+    "keywords": [
+      "dog",
+      "puppy",
+      "pet"
+    ],
+    "category": "Animals & Nature",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🐱": {
+    "display": "🐱",
+    "name": "cat face",
+    "keywords": [
+      "cat",
+      "kitten",
+      "pet"
+    ],
+    "category": "Animals & Nature",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌸": {
+    "display": "🌸",
+    "name": "cherry blossom",
+    "keywords": [
+      "flower",
+      "spring",
+      "blossom"
+    ],
+    "category": "Animals & Nature",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🌹": {
+    "display": "🌹",
+    "name": "rose",
+    "keywords": [
+      "rose",
+      "flower",
+      "romance"
+    ],
+    "category": "Animals & Nature",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💐": {
+    "display": "💐",
+    "name": "bouquet",
+    "keywords": [
+      "flowers",
+      "bouquet",
+      "gift"
+    ],
+    "category": "Animals & Nature",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🎁": {
+    "display": "🎁",
+    "name": "wrapped gift",
+    "keywords": [
+      "gift",
+      "present",
+      "surprise"
+    ],
+    "category": "Activities",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💰": {
+    "display": "💰",
+    "name": "money bag",
+    "keywords": [
+      "money",
+      "rich",
+      "cash"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "📚": {
+    "display": "📚",
+    "name": "books",
+    "keywords": [
+      "books",
+      "reading",
+      "study"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💡": {
+    "display": "💡",
+    "name": "light bulb",
+    "keywords": [
+      "idea",
+      "insight",
+      "bright"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "🔑": {
+    "display": "🔑",
+    "name": "key",
+    "keywords": [
+      "key",
+      "important",
+      "unlock"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "⏰": {
+    "display": "⏰",
+    "name": "alarm clock",
+    "keywords": [
+      "time",
+      "alarm",
+      "wake up"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "📱": {
+    "display": "📱",
+    "name": "mobile phone",
+    "keywords": [
+      "phone",
+      "mobile",
+      "device"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "💻": {
+    "display": "💻",
+    "name": "laptop",
+    "keywords": [
+      "computer",
+      "laptop",
+      "work"
+    ],
+    "category": "Objects",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "✅": {
+    "display": "✅",
+    "name": "check mark button",
+    "keywords": [
+      "done",
+      "yes",
+      "correct",
+      "complete"
+    ],
+    "category": "Symbols",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "❌": {
+    "display": "❌",
+    "name": "cross mark",
+    "keywords": [
+      "no",
+      "wrong",
+      "incorrect"
+    ],
+    "category": "Symbols",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "❓": {
+    "display": "❓",
+    "name": "red question mark",
+    "keywords": [
+      "question",
+      "confused",
+      "what"
+    ],
+    "category": "Symbols",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  },
+  "⚠️": {
+    "display": "⚠️",
+    "name": "warning",
+    "keywords": [
+      "warning",
+      "caution",
+      "alert"
+    ],
+    "category": "Symbols",
+    "defaultRoles": [
+      "noun",
+      "object-of-preposition",
+      "interjection"
+    ]
+  }
+}
