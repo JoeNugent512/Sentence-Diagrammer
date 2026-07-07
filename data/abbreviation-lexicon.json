@@ -1,0 +1,230 @@
+{
+  "asap": {
+    "display": "ASAP",
+    "expansion": "as soon as possible",
+    "pos": "adverb"
+  },
+  "irl": {
+    "display": "IRL",
+    "expansion": "in real life",
+    "pos": "adverb"
+  },
+  "rn": {
+    "display": "rn",
+    "expansion": "right now",
+    "pos": "adverb"
+  },
+  "fr": {
+    "display": "fr",
+    "expansion": "for real",
+    "pos": "adverb",
+    "properNounRisk": true
+  },
+  "frfr": {
+    "display": "frfr",
+    "expansion": "for real, for real",
+    "pos": "adverb"
+  },
+  "pls": {
+    "display": "pls",
+    "expansion": "please",
+    "pos": "adverb"
+  },
+  "plz": {
+    "display": "plz",
+    "expansion": "please",
+    "pos": "adverb"
+  },
+  "lol": {
+    "display": "lol",
+    "expansion": "laughing out loud",
+    "pos": "discourse"
+  },
+  "lmao": {
+    "display": "lmao",
+    "expansion": "laughing my (rear) off",
+    "pos": "discourse"
+  },
+  "rofl": {
+    "display": "rofl",
+    "expansion": "rolling on the floor laughing",
+    "pos": "discourse"
+  },
+  "btw": {
+    "display": "btw",
+    "expansion": "by the way",
+    "pos": "discourse"
+  },
+  "tbh": {
+    "display": "tbh",
+    "expansion": "to be honest",
+    "pos": "discourse"
+  },
+  "imo": {
+    "display": "imo",
+    "expansion": "in my opinion",
+    "pos": "discourse"
+  },
+  "imho": {
+    "display": "imho",
+    "expansion": "in my humble opinion",
+    "pos": "discourse"
+  },
+  "fyi": {
+    "display": "fyi",
+    "expansion": "for your information",
+    "pos": "discourse"
+  },
+  "smh": {
+    "display": "smh",
+    "expansion": "shaking my head",
+    "pos": "discourse"
+  },
+  "ngl": {
+    "display": "ngl",
+    "expansion": "not gonna lie",
+    "pos": "discourse"
+  },
+  "idk": {
+    "display": "idk",
+    "expansion": "I don't know",
+    "pos": "discourse"
+  },
+  "ik": {
+    "display": "ik",
+    "expansion": "I know",
+    "pos": "discourse",
+    "properNounRisk": true
+  },
+  "icymi": {
+    "display": "icymi",
+    "expansion": "in case you missed it",
+    "pos": "discourse"
+  },
+  "tldr": {
+    "display": "tldr",
+    "expansion": "too long; didn't read",
+    "pos": "discourse"
+  },
+  "haha": {
+    "display": "haha",
+    "expansion": "laughter",
+    "pos": "interjection"
+  },
+  "hahaha": {
+    "display": "hahaha",
+    "expansion": "laughter",
+    "pos": "interjection"
+  },
+  "hehe": {
+    "display": "hehe",
+    "expansion": "laughter",
+    "pos": "interjection"
+  },
+  "omg": {
+    "display": "omg",
+    "expansion": "oh my gosh",
+    "pos": "interjection"
+  },
+  "oops": {
+    "display": "oops",
+    "expansion": "exclamation of a small mistake",
+    "pos": "interjection"
+  },
+  "uh": {
+    "display": "uh",
+    "expansion": "hesitation sound",
+    "pos": "interjection"
+  },
+  "um": {
+    "display": "um",
+    "expansion": "hesitation sound",
+    "pos": "interjection"
+  },
+  "hmm": {
+    "display": "hmm",
+    "expansion": "thinking sound",
+    "pos": "interjection"
+  },
+  "brb": {
+    "display": "brb",
+    "expansion": "be right back",
+    "pos": "interjection"
+  },
+  "omw": {
+    "display": "omw",
+    "expansion": "on my way",
+    "pos": "interjection"
+  },
+  "ttyl": {
+    "display": "ttyl",
+    "expansion": "talk to you later",
+    "pos": "interjection"
+  },
+  "np": {
+    "display": "np",
+    "expansion": "no problem",
+    "pos": "interjection"
+  },
+  "yw": {
+    "display": "yw",
+    "expansion": "you're welcome",
+    "pos": "interjection"
+  },
+  "ty": {
+    "display": "ty",
+    "expansion": "thank you",
+    "pos": "interjection",
+    "properNounRisk": true
+  },
+  "thx": {
+    "display": "thx",
+    "expansion": "thanks",
+    "pos": "interjection"
+  },
+  "yep": {
+    "display": "yep",
+    "expansion": "yes",
+    "pos": "interjection"
+  },
+  "yup": {
+    "display": "yup",
+    "expansion": "yes",
+    "pos": "interjection"
+  },
+  "nope": {
+    "display": "nope",
+    "expansion": "no",
+    "pos": "interjection"
+  },
+  "nah": {
+    "display": "nah",
+    "expansion": "no",
+    "pos": "interjection"
+  },
+  "welp": {
+    "display": "welp",
+    "expansion": "well (resigned)",
+    "pos": "interjection"
+  },
+  "eta": {
+    "display": "ETA",
+    "expansion": "estimated time of arrival",
+    "pos": "noun"
+  },
+  "diy": {
+    "display": "DIY",
+    "expansion": "do it yourself",
+    "pos": "noun"
+  },
+  "fomo": {
+    "display": "FOMO",
+    "expansion": "fear of missing out",
+    "pos": "noun"
+  },
+  "afk": {
+    "display": "AFK",
+    "expansion": "away from keyboard",
+    "pos": "adjective"
+  }
+}
